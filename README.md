@@ -5,7 +5,7 @@ Android App for Classification and Detection of Covid-19 patients by their X-ray
 
 1)First we collect data that is images of X-Ray for Normal and Covid Patients 
 
-2)Then build a Model that can classify between Covid and Normal Based on Xray Images
+2)Then build a Model that can classify between Covid and Normal Based on Xray Images [Link to the notebook in which model is built](Covid-19 Detector/Covid-19 classification by X-ray images of lungs Model notebook/Covid_Detection.ipynb)
 
 3)Convert the Model to tensorflow lite model and integrate it in Android Studio
 
